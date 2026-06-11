@@ -4,7 +4,7 @@
   "intro": "I am, a full-stack web developer and front-end developer with over 5 years of experience, Mainly in build and managing web applications using PHP (Laravel), as well as developing dekstop application with VB.",
   "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
   "webpageTitle": "Dyanta Sahadila",
-  "resumeUrl": "http://localhost:4321/cv/IMadeDyantaSahadila.pdf",
+  "resumeUrl": "https://porto-dyanta.vercel.app//cv/IMadeDyantaSahadila.pdf",
 
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
   "socials": [
