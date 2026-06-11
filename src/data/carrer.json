@@ -1,0 +1,34 @@
+[
+  {
+    "company": "PT DANACO GLOBAL SOLUSI",
+    "role": "Maintenance Program (Internship)",
+    "period": "Jul 2019 - Okt 2019",
+    "type": "Internship",
+    "description": "Updating menu in system using java. Tester application.",
+    "skills": ["Java", "Collaboration"]
+  },
+  {
+    "company": "Freelancer",
+    "role": "FrontEnd Developer",
+    "period": "Sep 2020 - Des 2020",
+    "type": "Freelancer job",
+    "description": "Developing new menu in system. Updating menu in system.",
+    "skills": ["Tailwind.js", "Vue.js", "Laravel", "MySQL"]
+  },
+  {
+    "company": "PT DANACO GLOBAL SOLUSI",
+    "role": "IT Support",
+    "period": "Jan 2021 - Jan 2022",
+    "type": "Full-Time Job",
+    "description": "System installation on clients. Tester Application. Train new users to use the system. Fix system problems. Help solve client problems in system",
+    "skills": ["Mysql", "Problem Solving", "Troubleshoot"]
+  },
+  {
+    "company": "PT DANACO GLOBAL SOLUSI",
+    "role": "Programmer",
+    "period": "Jan 2022 - Mei 2026",
+    "type": "Full-Time Job",
+    "description": "Developing or updating menu in system. Deploying system and fixing (Bugs) in system. Database administrator. Linux system administrator",
+    "skills": ["Visual Basic", ".Net", "Java","React.js", "Mysql", "PostgreSQL", "Docker", "Linux", "Problem Solving", "Collaboration"]
+  }
+]

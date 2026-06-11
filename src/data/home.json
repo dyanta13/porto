@@ -1,0 +1,72 @@
+{
+  "name": "Dyanta Sahadila",
+  "photoUrl": "profile.jpg",
+  "intro": "I am, a full-stack web developer and front-end developer with over 5 years of experience, Mainly in build and managing web applications using PHP (Laravel), as well as developing dekstop application with VB.",
+  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
+  "webpageTitle": "Dyanta Sahadila",
+  "resumeUrl": "http://localhost:4321/cv/IMadeDyantaSahadila.pdf",
+
+  "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/dyanta13",
+      "icon": "mdi:github",
+      "showInContact": true
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/dyanta",
+      "icon": "mdi:linkedin",
+      "showInContact": true
+    },
+    {
+      "name": "Leetcode",
+      "url": "#",
+      "icon": "devicon-plain:leetcode",
+      "showInContact": false
+    },
+    {
+      "name": "Behance",
+      "url": "#",
+      "icon": "devicon-plain:behance",
+      "showInContact": false
+    },
+    {
+      "name": "Email",
+      "url": "mailto:dyanta62@gmail.com",
+      "icon": "mdi:email",
+      "showInContact": true
+    },
+    {
+      "name": "Whatsapp",
+      "url": "https://wa.me/089529586840",
+      "icon": "mdi:whatsapp",
+      "showInContact": true
+    },
+    {
+      "name": "Facebook",
+      "url": "#",
+      "icon": "mdi:facebook",
+      "showInContact": false
+    },
+    {
+      "name": "Messenger",
+      "url": "#",
+      "icon": "mdi:facebook-messenger",
+      "showInContact": true
+    },
+    {
+      "name": "Instagram",
+      "url": "#",
+      "icon": "mdi:instagram",
+      "showInContact": false
+    },
+    {
+      "name": "Twitter",
+      "url": "#",
+      "icon": "mdi:twitter",
+      "showInContact": false
+    }
+  ]
+}

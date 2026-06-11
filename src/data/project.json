@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Inventory Application",
+    "description": "A web application built with modern frameworks to showcase technical expertise.",
+    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "tech": ["Laravel", "MySQL"],
+    "platforms": ["web"],
+    "link": "https://",
+    "category": "Private Website"
+  },
+  {
+    "title": "Pos System",
+    "description": "Pos system built with visual basic for efficient store management",
+    "images": ["astro-02.jpeg", "#"],
+    "tech": ["Visual Basic", "MySQL"],
+    "platforms": ["web"],
+    "link": "https://",
+    "category": "POS"
+  },
+  {
+    "title": "Jaslis",
+    "description": "A mobile application built with native development.",
+    "images": ["astro-02.jpeg", "#"],
+    "tech": ["Laravel","Android Native", "MySQL"],
+    "platforms": ["android"],
+    "link": "https://",
+    "category": "Demo App"
+  },
+   {
+    "title": "Oxy Management",
+    "description": "A task management, leave management, and workforce management built with website responsive.",
+    "images": ["astro-02.jpeg", "#"],
+    "tech": ["Laravel", "MySQL"],
+    "platforms": ["web"],
+    "link": "https://",
+    "category": "Management App"
+  }
+]

@@ -1,17 +1,43 @@
 ---
+import Layout from "../layouts/Layout.astro";
+import Nav from "../components/nav.astro";
+import Home from "../components/home.astro";
+import Tech from "../components/tech.astro";
+import Projects from "../components/projects.astro";
+import Contact from "../components/contact.astro";
+import Career from "../components/carrer.astro";
+import localData from '../data/home.json';
 
+interface ProfileData {
+  webpageTitle: string;
+}
+
+const isApiLive = import.meta.env.PROD; // Auto true in production
+const BASE_URL = import.meta.env.PUBLIC_API_BASE_URL;
+
+let data: ProfileData; // data as ProfileData
+
+if (isApiLive && BASE_URL) {
+  try {
+    const response = await fetch(`${BASE_URL}/home`);
+    if (!response.ok) throw new Error('Network response was not ok');
+    data = await response.json();
+  } catch (error) {
+    console.error("API Fetch failed, falling back to mock data", error);
+    data = localData as ProfileData;
+  }
+} else {
+  data = localData as ProfileData;
+}
+
+const { webpageTitle } = data;
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Layout title={webpageTitle}>
+  	<Nav />
+	<Home />
+	<Career />
+	<Projects />
+	<Tech />
+	<Contact />
+</Layout>
