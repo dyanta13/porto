@@ -2,7 +2,7 @@
   {
     "title": "Inventory Application",
     "description": "A web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "images": ["astro-01.webp", "#"],
     "tech": ["Laravel", "MySQL"],
     "platforms": ["web"],
     "link": "https://",
@@ -19,7 +19,7 @@
   },
   {
     "title": "Jaslis",
-    "description": "A mobile application built with native development.",
+    "description": "A mobile application built with native development, An app that provides residential electrical installation and repair services.",
     "images": ["astro-02.jpeg", "#"],
     "tech": ["Laravel","Android Native", "MySQL"],
     "platforms": ["android"],
@@ -29,10 +29,19 @@
    {
     "title": "Oxy Management",
     "description": "A task management, leave management, and workforce management built with website responsive.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Laravel", "MySQL"],
+    "images": ["oxy-management1.png", "oxy-management2.png", "#"],
+    "tech": ["Laravel", "MySQL", "Html","Css"],
     "platforms": ["web"],
     "link": "https://",
     "category": "Management App"
+  },
+  {
+    "title": "Erp System",
+    "description": "an ERP application which contains sales, inventory and finance modules, built using Next JS and Laravel with a responsive website.",
+    "images": ["astro-02.jpeg", "#"],
+    "tech": ["Laravel", "MySQL", "Next Js"],
+    "platforms": ["web"],
+    "link": "https://",
+    "category": "Erp App"
   }
 ]
