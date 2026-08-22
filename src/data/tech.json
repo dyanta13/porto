@@ -14,6 +14,7 @@
         { "name": "CSS", "level": 3, "icon": "skill-icons:css" },
         { "name": "Tailwind CSS", "level": 2, "icon": "skill-icons:tailwindcss-dark" },
         { "name": "React js", "level": 2, "icon": "skill-icons:react-light" },
+        { "name": "Next js", "level": 2, "icon": "skill-icons:next-light" },
         { "name": "Visual Basic", "level": 3, "icon": "devicon:visualbasic" }
       ]
     },
