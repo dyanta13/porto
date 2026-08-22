@@ -37,16 +37,16 @@
   },
   {
     "title": "Erp System",
-    "description": "an ERP application which contains sales, inventory and finance modules, built using Next JS and Laravel with a responsive website.",
-    "images": ["astro-02.jpeg", "#"],
+    "description": "an ERP system which contains sales, inventory and finance modules, built using Next JS and Laravel with a responsive website.",
+    "images": ["sc_erp1.png", "sc_erp2.png"],
     "tech": ["Laravel", "MySQL", "Next Js"],
     "platforms": ["web"],
-    "link": "https://",
+    "link": "https://erp-gnxukqfpx-dyanta13-s-projects.vercel.app/login",
     "category": "Erp App"
   },
   {
     "title": "Website Template",
-    "description": "an ERP application which contains sales, inventory and finance modules, built using Next JS and Laravel with a responsive website.",
+    "description": "an Website Template built using Next JS with a responsive website.",
     "images": ["astro-02.jpeg", "#"],
     "tech": ["Next Js","Tailwind Css"],
     "platforms": ["web"],
