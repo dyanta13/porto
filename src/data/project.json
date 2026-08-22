@@ -41,7 +41,7 @@
     "images": ["sc_erp1.png", "sc_erp2.png"],
     "tech": ["Laravel", "MySQL", "Next Js"],
     "platforms": ["web"],
-    "link": "www.erpsystem.web.id",
+    "link": "https://www.erpsystem.web.id/login",
     "category": "Erp App"
   },
   {
