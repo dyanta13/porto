@@ -32,7 +32,7 @@
     "images": ["oxy-management1.png", "oxy-management2.png", "#"],
     "tech": ["Laravel", "MySQL", "Html","Css"],
     "platforms": ["web"],
-    "link": "https://",
+    "link": "https://app-management.wuaze.com/",
     "category": "Management App"
   },
   {
