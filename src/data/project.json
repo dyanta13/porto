@@ -47,7 +47,7 @@
   {
     "title": "Website Template",
     "description": "an Website Template built using Next JS with a responsive website.",
-    "images": ["astro-02.jpeg", "#"],
+    "images": ["browsersupply.png", "#"],
     "tech": ["Next Js","Tailwind Css"],
     "platforms": ["web"],
     "link": "https://clonebrowsersupply-kappa.vercel.app/",
