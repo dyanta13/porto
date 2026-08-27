@@ -27,7 +27,7 @@
     "category": "Demo App"
   },
    {
-    "title": "Oxy Management",
+    "title": "App Management",
     "description": "A task management, leave management, and workforce management built with website responsive.",
     "images": ["oxy-management1.png", "oxy-management2.png", "#"],
     "tech": ["Laravel", "MySQL", "Html","Css"],
