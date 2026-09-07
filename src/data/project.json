@@ -61,5 +61,14 @@
     "platforms": ["web"],
     "link": "https://runon.id/",
     "category": "Website"
+  },
+  {
+    "title": "Running Event",
+    "description": "Website for register ruuning event, and Website built using Next JS and Laravel with a responsive website.",
+    "images": ["sanurian.png", "#"],
+    "tech": ["Next Js", "Tailwind Css", "Php", "Laravel", "MySQL"],
+    "platforms": ["web"],
+    "link": "https://sanurian.anysport.id/",
+    "category": "Website"
   }
 ]
