@@ -52,5 +52,14 @@
     "platforms": ["web"],
     "link": "https://clonebrowsersupply-kappa.vercel.app/",
     "category": "Website"
+  },
+  {
+    "title": "Running Event",
+    "description": "an Website built using Next JS and Laravel with a responsive website.",
+    "images": ["runon.png", "#"],
+    "tech": ["Next Js","Php", "Laravel"],
+    "platforms": ["web"],
+    "link": "https://runon.id/",
+    "category": "Website"
   }
 ]
